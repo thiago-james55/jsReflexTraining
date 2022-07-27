@@ -1,0 +1,78 @@
+h1#title {
+    animation-iteration-count: infinite;
+    animation-duration: 10s;
+    animation-name: rainbow;
+    text-align: center;
+    width: 800px;
+
+}
+
+@keyframes rainbow {
+
+    0% {color: red;}
+    20% {color: blue;}
+    40% {color: yellow;}
+    60% {color: green;}
+    80% {color: pink;}
+    100% {color: purple;}
+    
+}
+
+div.divs {
+    width: 800px;
+}
+
+div#menu {
+    
+    padding: 10px;
+    margin-bottom: 20px;
+    border-style: dashed;
+    
+}
+
+.separator {
+    border-right: dashed;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
+
+span#timer {
+    margin-left: 10px;
+}
+
+span#score {
+    float: right;
+}
+
+div#container {
+    border-style: dashed;
+    height: max-content;
+    padding: 10px;
+}
+
+button.button-reflex {
+    width: 50px;
+    height: 50px;
+}
+
+div#creator {
+    text-align: right;
+    padding: 10px;
+    padding-left: 30px;
+}
+
+a#github {
+    text-decoration: none;
+    color: black;
+  
+}
+
+a#github:hover {
+
+    text-decoration: none;
+    animation-iteration-count: infinite;
+    animation-duration: 10s;
+    animation-name: rainbow;
+
+}

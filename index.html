@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jsReflexTraining</title>
+
+</head>
+
+<body onload="init()">
+    <h1 id="title" ">jsReflexTraining</h1>
+    <div class="divs"id="menu">
+        <button id="button-start">Start</button>
+        <button id="button-stop">Stop</button>
+        <button id="button-clear">Clear Score</button>
+        <span class="separator"></span>
+        <label for="difficult">Difficult:</label>
+        <select name="difficult" id="difficult">
+            <option id="easy" value="easy">Easy</option>
+            <option id="medium" value="medium">Medium</option>
+            <option id="hard" value="hard">Hard</option>
+            <option id="expert" value="expert">Expert</option>
+        </select>
+       
+        <span id="difficult-detail"></span>
+
+        <span class="separator"></span>
+
+        <label for="time">Time:</label>
+
+        <select name="time" id="time">
+            <option id="one-min" value="one-min">1 Minute</option>
+            <option id="two-min" value="two-min">2 Minutes</option>
+            <option id="five-min" value="five-min">5 Minutes</option>
+            <option id="infite" value="infinite">Infinite</option>
+        </select>
+
+        <span id="timer">00:00:00</span>
+        
+        <span class="separator"></span>
+
+        <span id="score">SCORE: 000000</span>
+        </div>
+    <div class="divs" id="container"></div>
+    <div class="divs" id="creator">
+        <a id="github" href="https://github.com/thiago-james55">by Thiago Gonçalves Souza</a>
+    </div>
+</body>
+
+</html>
