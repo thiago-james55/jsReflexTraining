@@ -2,7 +2,9 @@
 
   <h1>jsReflexTraining</h1>
 
-  <p>Projetinho próprio para treinar a triade (HTML, CSS, Javascript)</p>
+![Untitled](https://user-images.githubusercontent.com/87917583/181995751-70592447-1a39-43a8-827e-222dbfd1f824.png)
+
+  <p>Projetinho próprio para treinar a tríade (HTML, CSS, Javascript)</p>
 
   <p>
     Programa/Jogo que exibe rapidamente um botão , ao qual precisa ser clicado
@@ -29,12 +31,12 @@
   <p>Exibe a pontuação atual.</p>
 
   <h3>Chain/Strike Level</h3>
-  <p>Exibe pontuação consecutiva e o nivel de pontuação dinamica!</p>
+  <p>Exibe pontuação consecutiva e o nível de pontuação dinâmica!</p>
 
 
   <h2>⚙ Features</h2>
 
-  <h3>Pontuação dinamica</h3>
+  <h3>Pontuação dinâmica</h3>
 
   <p>
     Ao acertar consecutivamente as aparições dos botões você acumula (chains) sequencias que alteram a pontuação
@@ -100,7 +102,7 @@
     <tr>
       <th align="left">Dificuldade</th>
       <th align="left">Descrição</th>
-      <th align="left">Milisegundos</th>
+      <th align="left">Milissegundos</th>
     </tr>
     <tr>
       <td>Easy</td>
@@ -129,4 +131,6 @@
   </table>
 
   <h2>📲 Responsivo</h2>
-  <p>Compativel com mobiles, tablets e demais telas menores</p>
+  <p>Compatível com mobiles, tablets e demais telas menores</p>
+  
+![WhatsApp Image 2022-07-30 at 17 51 49](https://user-images.githubusercontent.com/87917583/181995817-9b728823-8ebb-4918-bbbf-f053874bb0f1.jpeg)
