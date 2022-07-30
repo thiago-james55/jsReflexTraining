@@ -1,8 +1,8 @@
 
 
   <h1>jsReflexTraining</h1>
-
-![Untitled](https://user-images.githubusercontent.com/87917583/181995751-70592447-1a39-43a8-827e-222dbfd1f824.png)
+  
+  ![Untitled (Médio)](https://user-images.githubusercontent.com/87917583/181996014-901877d5-d6d1-4c20-9acd-54530253347f.png)
 
   <p>Projetinho próprio para treinar a tríade (HTML, CSS, Javascript)</p>
 
@@ -133,4 +133,5 @@
   <h2>📲 Responsivo</h2>
   <p>Compatível com mobiles, tablets e demais telas menores</p>
   
-![WhatsApp Image 2022-07-30 at 17 51 49](https://user-images.githubusercontent.com/87917583/181995817-9b728823-8ebb-4918-bbbf-f053874bb0f1.jpeg)
+![WhatsApp Image 2022-07-30 at 17 51 49 (Pequeno)](https://user-images.githubusercontent.com/87917583/181996022-a13521d7-8024-46e6-b3ca-047b5f10983b.jpeg)
+
