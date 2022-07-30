@@ -13,11 +13,16 @@
 
 <body onload="init()">
     <h1 id="title" ">jsReflexTraining</h1>
-    <div class="divs"id="menu">
-        <button id="button-start">Start</button>
-        <button id="button-stop">Stop</button>
-        <button id="button-clear">Clear Score</button>
-        <span class="separator"></span>
+    <div class=" divs"id="menu">
+        <button class="button-menu" id="button-start" onclick="startGame()">Start</button>
+        <button class="button-menu" id="button-stop" onclick="stopGame()">Stop</button>
+        <button class="button-menu" id="button-clear" onclick="clearScore()">Clear</button>
+
+        <span id="separator"></span>
+
+        <br id="jump-line">
+        <br id="jump-line">
+
         <label for="difficult">Difficult:</label>
         <select name="difficult" id="difficult">
             <option id="easy" value="easy">Easy</option>
@@ -25,10 +30,12 @@
             <option id="hard" value="hard">Hard</option>
             <option id="expert" value="expert">Expert</option>
         </select>
-       
+
         <span id="difficult-detail"></span>
 
-        <span class="separator"></span>
+        <span id="separator"></span>
+        <br id="jump-line">
+        <br id="jump-line">
 
         <label for="time">Time:</label>
 
@@ -40,15 +47,19 @@
         </select>
 
         <span id="timer">00:00:00</span>
-        
-        <span class="separator"></span>
 
-        <span id="score">SCORE: 000000</span>
-        </div>
-    <div class="divs" id="container"></div>
-    <div class="divs" id="creator">
-        <a id="github" href="https://github.com/thiago-james55">by Thiago Gonçalves Souza</a>
-    </div>
+
+        <span id="separator"></span>
+        <br id="jump-line">
+        <br id="jump-line">
+
+        <span id="score">SCORE:</span>
+            </div>
+            <div class="divs" id="container"></div>
+            <div class="divs" id="bottom">
+                <span id="points-chain"></span>
+                <a id="github" href="https://github.com/thiago-james55">by Thiago Gonçalves Souza</a>
+            </div>
 </body>
 
 </html>
