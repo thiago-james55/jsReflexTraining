@@ -3,6 +3,8 @@
   <h1>jsReflexTraining</h1>
   
   ![Untitled (Médio)](https://user-images.githubusercontent.com/87917583/181996014-901877d5-d6d1-4c20-9acd-54530253347f.png)
+  
+  <h3>🌍 Deploy: <a href="https://jsreflextraining.netlify.app/">Netlify<a> </h3>
 
   <p>Projetinho próprio para treinar a tríade (HTML, CSS, Javascript)</p>
 
@@ -12,7 +14,7 @@
   </p>
 
   <p>Ao ser clicado antes que desapareça você ganha pontos(score).</p>
-
+    
   <h2>🔭 Layout</h2>
 
   <h3>Botão Start</h3>
